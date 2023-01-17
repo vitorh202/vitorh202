@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm searching for a developer junior job.
-- 🌱 I’m currently learning Python, Javascript, TypeScript.
+- 🌱 I’m currently learning Python, TypeScript.
 
 <div align="center">
   <a href="https://github.com/vitorh202/">
