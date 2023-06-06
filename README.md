@@ -7,9 +7,9 @@
 
   <h2> OS: </h2>
   <div style="display: inline_block"><br>
-    <img align="center" alt="vh-linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
+    <img align="center" alt="vh-linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg">
     <img align="center" alt="vh-Windows" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg">
-    <img align="center" alt="vh-kali" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
+    <img align="center" alt="vh-kali" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg">
   </div>
 
 <h2> Code: </h2>
