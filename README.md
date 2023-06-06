@@ -3,8 +3,6 @@
 - 🔭 I'm searching for a developer junior job.
 - 🌱 I’m currently Vue.js, ReactNative, MySql.
 
-<img src="header.svg" width="1" height="1">
-
 ##
 
 <h2> Code: </h2>
