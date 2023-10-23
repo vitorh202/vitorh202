@@ -1,7 +1,7 @@
 ## Hello and welcome 👋
 
 - 🔭 I'm searching for a developer junior job.
-- 🌱 I’m currently Vue.js, ReactNative, MySql.
+- 🌱 Currently studying JS, TS, JAVA, SQL.
 
 ##
 
