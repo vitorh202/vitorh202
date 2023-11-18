@@ -22,6 +22,7 @@
   <img align="center" alt="vh-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
    <img align="center" alt="vh-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img align="center" alt="vh-Vue" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png">
+  <img align="center" alt="vh-Angular" height="40" width="50" src="https://ng-icons.github.io/ng-icons/assets/angular.svg">
 </div>
   
   <h2> Database: </h2>
