@@ -28,7 +28,6 @@
   <div style="display: inline_block"><br>
     <img align="center" alt="vh-firebase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
     <img align="center" alt="vh-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg">
-    <img align="center" alt="vh-azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
   </div>
  
   <h2> Contact me: </h2>
