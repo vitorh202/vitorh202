@@ -1,7 +1,7 @@
 ## Hello and welcome 👋
 
 - 🔭 I'm searching for a developer junior job.
-- 🌱 Currently studying JS, TS, JAVA, SQL.
+- 🌱 Currently studying ANGULAR, TS, JAVA, SQL.
 
 ##
 
