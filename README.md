@@ -20,7 +20,7 @@
   <img align="center" alt="vh-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="vh-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="vh-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  <img align="center" alt="vh-React" height="40" width="50" src="tudo.https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png">
+  <img align="center" alt="vh-React" height="40" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png">
   <img align="center" alt="vh-Angular" height="40" width="50" src="https://ng-icons.github.io/ng-icons/assets/angular.svg">
 </div>
   
